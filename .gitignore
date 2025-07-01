@@ -1,0 +1,24 @@
+# autosave
+*~
+
+# export files for BOM
+*.tsv
+*.xml
+
+# kicad cache lib
+fp-info-cache
+
+# backup files
+*-bak
+*.bkp
+*-swp
+*backups*
+
+# external info files
+info/
+
+# libreoffice lock files
+*~lock*
+
+# compressed
+*.zip

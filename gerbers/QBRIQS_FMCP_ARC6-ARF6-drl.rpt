@@ -1,0 +1,36 @@
+Drill report for QBRIQS_FMCP_ARC6-ARF6.kicad_pcb
+Created on 2025-05-27T12:33:08+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1_GND.Cu                in1
+    L3 :  In2.Cu                    in2
+    L4 :  In3_GND.Cu                in3
+    L5 :  In4_GND.Cu                in4
+    L6 :  In5_GND.Cu                in5
+    L7 :  In6_GND.Cu                in6
+    L8 :  B.Cu                      back
+
+
+Drill file 'QBRIQS_FMCP_ARC6-ARF6-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (618 holes)
+    T2  0.830mm  0.0327"  (8 holes)
+    T3  0.840mm  0.0331"  (30 holes)
+    T4  1.000mm  0.0394"  (6 holes)
+    T5  1.550mm  0.0610"  (4 holes)
+    T6  2.700mm  0.1063"  (2 holes)
+
+    Total plated holes count 668
+
+
+Drill file 'QBRIQS_FMCP_ARC6-ARF6-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.950mm  0.0374"  (8 holes)
+    T2  1.270mm  0.0500"  (2 holes)
+    T3  2.700mm  0.1063"  (2 holes)
+
+    Total unplated holes count 12

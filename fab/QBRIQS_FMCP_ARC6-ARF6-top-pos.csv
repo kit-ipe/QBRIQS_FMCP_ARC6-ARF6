@@ -1,0 +1,11 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"FID101","Fiducial","Fiducial_1mm_Mask2mm",-10.900000,63.000000,0.000000,top
+"FID102","Fiducial","Fiducial_1mm_Mask2mm",50.100000,2.000000,0.000000,top
+"FID104","Fiducial","Fiducial_1mm_Mask2mm",-10.900000,0.000000,0.000000,top
+"G***","LOGO","IPE_LOGO_MASK_2.5x1.4mm",15.805000,42.355000,0.000000,top
+"J201","Conn_Coaxial","MMCX_Molex_73415-1471_Vertical",46.100000,3.000000,0.000000,top
+"J202","Conn_Coaxial","MMCX_Molex_73415-1471_Vertical",40.100000,3.000000,0.000000,top
+"J203","Conn_Coaxial","MMCX_Molex_73415-1471_Vertical",18.100000,3.000000,90.000000,top
+"J204","Conn_Coaxial","MMCX_Molex_73415-1471_Vertical",12.100000,3.000000,90.000000,top
+"J205","Conn_Coaxial","MMCX_Molex_73415-1471_Vertical",32.100000,3.000000,0.000000,top
+"J206","Conn_Coaxial","MMCX_Molex_73415-1471_Vertical",26.100000,3.000000,0.000000,top

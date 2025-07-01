@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ARF6-08-S-RA-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/ARF6-08-S-RA-TR/ARF6-08-S-RA-TR.kicad_sym")(options "")(descr ""))
+)
